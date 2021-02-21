@@ -64,6 +64,10 @@
   transition: all 0.2s ease-out;
 }
 
+.active-link {
+  color: #f17828;
+}
+
 .fa-bars {
   color: #fff;
 }

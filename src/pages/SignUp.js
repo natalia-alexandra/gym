@@ -10,7 +10,7 @@ export default function SignUp() {
 
     return (
         <div className="signup-login">
-            <h2>Connect</h2>
+            <h2 className>Connect</h2>
 
             <div className="options">
                 <h3 onClick={toggleOption} className={!isRegister && "active"}>Sign Up</h3>
